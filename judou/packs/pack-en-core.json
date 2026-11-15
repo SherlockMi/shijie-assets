@@ -1,0 +1,2771 @@
+{
+ "id": "pack-en-core",
+ "name": "英语 · 通用",
+ "lang": "en",
+ "accent": "common",
+ "style": "",
+ "desc": "不分地区的通用说法，最先下这个",
+ "version": 1,
+ "updatedAt": "2026-11-15",
+ "entries": [
+  {
+   "q": "你好",
+   "aliases": [
+    "您好",
+    "嗨"
+   ],
+   "variants": [
+    {
+     "content": "Hi!",
+     "zh": "你好",
+     "style": "口语",
+     "register": "朋友、同事之间最平常的打招呼，任何英语国家都一样",
+     "recommended": true
+    },
+    {
+     "content": "Hello.",
+     "zh": "你好",
+     "style": "正式",
+     "register": "接电话、进店、对陌生人。比 Hi 客气一档，但不生硬",
+     "recommended": false
+    },
+    {
+     "content": "Good morning.",
+     "zh": "你好",
+     "style": "正式",
+     "register": "上午见面，尤其职场和顾客服务场合。英式比美式更常用",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "Hi",
+     "zh": "嗨，最随意的招呼"
+    },
+    {
+     "surface": "Good morning",
+     "zh": "早上好，中午前用"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Hello, how are you? I am fine, thank you.",
+     "why": "语法没错，但这是课本对白，母语者不会这样成套地说，听起来像在背课文",
+     "right": "Hi, how are you doing?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "Hi, how's it going?",
+     "zh": "嗨，最近怎么样？"
+    },
+    {
+     "en": "Hello, you must be Mr. Clarke.",
+     "zh": "您好，您一定是克拉克先生。"
+    }
+   ],
+   "note": "Hi 和 Hello 的差别在熟不熟，不在礼不礼貌。How do you do 现在偏老派，年轻人之间说会显得在开玩笑。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "谢谢",
+   "aliases": [
+    "感谢",
+    "多谢"
+   ],
+   "variants": [
+    {
+     "content": "Thanks!",
+     "zh": "谢谢",
+     "style": "口语",
+     "register": "最常用。小事、熟人、随口一句都用它",
+     "recommended": true
+    },
+    {
+     "content": "Thank you.",
+     "zh": "谢谢",
+     "style": "正式",
+     "register": "完整说法，比 Thanks 郑重。对陌生人、服务人员、长辈用",
+     "recommended": false
+    },
+    {
+     "content": "Much appreciated.",
+     "zh": "谢谢",
+     "style": "正式",
+     "register": "职场邮件、商务场合。书面感强，说话时略显客气",
+     "recommended": false
+    },
+    {
+     "content": "I really appreciate it.",
+     "zh": "谢谢",
+     "style": "正式",
+     "register": "对方帮了比较大的忙时用，比 Thank you 更有分量",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "appreciate",
+     "zh": "感激、领情。比 thank 更强调「我知道你付出了」"
+    },
+    {
+     "surface": "I owe you one",
+     "zh": "欠你一次人情，口语固定说法"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Thanks you.",
+     "why": "Thanks 本身就是名词复数，后面不能再接 you",
+     "right": "Thank you. / Thanks."
+    },
+    {
+     "wrong": "Very thanks.",
+     "why": "Thanks 不能被 very 修饰",
+     "right": "Many thanks. / Thanks a lot."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Thanks, I owe you one.",
+     "zh": "谢了，欠你一个人情。"
+    },
+    {
+     "en": "Thank you for your time.",
+     "zh": "谢谢您抽时间。"
+    }
+   ],
+   "note": "英式口语里 Cheers 兼「谢谢」和「干杯」，美式只有后者。这是最容易被忽略的地区差异之一。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "对不起",
+   "aliases": [
+    "不好意思",
+    "抱歉"
+   ],
+   "variants": [
+    {
+     "content": "Sorry.",
+     "zh": "对不起",
+     "style": "口语",
+     "register": "英式用得极多 —— 撞到人、打断人、请人让路都说，不一定是真道歉",
+     "recommended": true
+    },
+    {
+     "content": "I apologize.",
+     "zh": "对不起",
+     "style": "正式",
+     "register": "真的做错了事、需要承担责任时。商务、客服、书面",
+     "recommended": false
+    },
+    {
+     "content": "My apologies.",
+     "zh": "对不起",
+     "style": "书面",
+     "register": "邮件开头/结尾的正式致歉，比 I apologize 轻，更书面",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "apologize",
+     "zh": "正式道歉，为自己的过失负责"
+    },
+    {
+     "surface": "Excuse me",
+     "zh": "打扰一下，用于开口前"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Sorry for my English.",
+     "why": "母语者会觉得你在贬低自己，反而不自然。直接说就好",
+     "right": "Sorry, let me rephrase that."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Sorry, could I just squeeze past?",
+     "zh": "不好意思，能让我过一下吗？"
+    },
+    {
+     "en": "I apologize for the delay in replying.",
+     "zh": "回复迟了，非常抱歉。"
+    }
+   ],
+   "note": "Sorry 在英式里几乎是口头禅，不代表真认错；Excuse me 在美式里承担这个功能。搞反了不会错，但一听就知道不是本地人。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "多少钱",
+   "aliases": [
+    "几块钱",
+    "价格"
+   ],
+   "variants": [
+    {
+     "content": "How much is it?",
+     "zh": "多少钱",
+     "style": "口语",
+     "register": "最普通、最安全的问法，商店、市场、网上都能用",
+     "recommended": true
+    },
+    {
+     "content": "How much does it cost?",
+     "zh": "多少钱",
+     "style": "正式",
+     "register": "稍正式，用于服务、维修、定制这类不标价的场合",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "damage",
+     "zh": "本义「损害」，俚语里指「总共花多少钱」"
+    },
+    {
+     "surface": "asking",
+     "zh": "开价、要价"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "How much money?",
+     "why": "中式直译。英语里 How much 已经包含「钱」的意思，加 money 反而奇怪",
+     "right": "How much is it?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "How much is it for two nights?",
+     "zh": "住两晚多少钱？"
+    },
+    {
+     "en": "How much does it cost to have it delivered?",
+     "zh": "送货要多少钱？"
+    }
+   ],
+   "note": "What's the damage 是纯英式玩笑说法；美式砍价更常说 How much are you asking。问价这件事，用最简单的 How much is it 永远不出错。",
+   "tags": [
+    "旅行",
+    "口语"
+   ]
+  },
+  {
+   "q": "再见",
+   "aliases": [
+    "拜拜",
+    "回头见"
+   ],
+   "variants": [
+    {
+     "content": "Bye!",
+     "zh": "再见",
+     "style": "口语",
+     "register": "最平常，熟人之间随时用",
+     "recommended": true
+    },
+    {
+     "content": "Goodbye.",
+     "zh": "再见",
+     "style": "正式",
+     "register": "稍微郑重或有点距离感。日常说全称会显得生分",
+     "recommended": false
+    },
+    {
+     "content": "Take care.",
+     "zh": "再见",
+     "style": "口语",
+     "register": "关系不错但一段时间不会见时用，带关心意味",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "Take care",
+     "zh": "保重，告别时的关心话"
+    },
+    {
+     "surface": "Have a good one",
+     "zh": "美式口语告别，指祝你今天顺利"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Bye bye.",
+     "why": "对成年人说两遍 bye 带哄小孩的感觉。除非对方是小孩或很亲的人",
+     "right": "Bye. / See you."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Bye, see you tomorrow.",
+     "zh": "拜，明天见。"
+    },
+    {
+     "en": "Goodbye, and thank you again.",
+     "zh": "再见，再次感谢。"
+    }
+   ],
+   "note": "Take care 和 Have a good one 都是不会再见但祝福你的告别，区别在地区：前者英美通用偏中性，后者是典型美式店员口吻。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "我不明白",
+   "aliases": [
+    "听不懂",
+    "没听懂"
+   ],
+   "variants": [
+    {
+     "content": "I don't understand.",
+     "zh": "我不明白",
+     "style": "正式",
+     "register": "中性、安全。上课、开会、对陌生人",
+     "recommended": true
+    },
+    {
+     "content": "I don't get it.",
+     "zh": "我不明白",
+     "style": "口语",
+     "register": "朋友之间最常见。get 在这里是理解的意思",
+     "recommended": false
+    },
+    {
+     "content": "I'm not following.",
+     "zh": "我不明白",
+     "style": "正式",
+     "register": "开会、听讲时最得体的一种。暗示你继续讲，我跟丢了，不打断对方",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "get",
+     "zh": "口语里是理解、明白，不是得到"
+    },
+    {
+     "surface": "follow",
+     "zh": "跟上（思路），听懂对方在讲什么"
+    },
+    {
+     "surface": "go over my head",
+     "zh": "超出我的理解范围"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I can't understand what are you talking about.",
+     "why": "宾语从句要用陈述语序，不能倒装",
+     "right": "I can't understand what you're talking about."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Sorry, I don't understand the question.",
+     "zh": "抱歉，我没听懂这个问题。"
+    },
+    {
+     "en": "I don't get it — why would he do that?",
+     "zh": "我没搞懂，他为什么要那样做？"
+    }
+   ],
+   "note": "I'm not following 是职场里最好用的一句 —— 它不打断对方，还给了对方一个往回讲的台阶。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "请再说一遍",
+   "aliases": [
+    "再说一次",
+    "没听清"
+   ],
+   "variants": [
+    {
+     "content": "Could you say that again?",
+     "zh": "请再说一遍",
+     "style": "正式",
+     "register": "最稳妥、任何场合都不会出错的说法",
+     "recommended": true
+    }
+   ],
+   "words": [
+    {
+     "surface": "Pardon",
+     "zh": "英式请人重复，等于「什么？」"
+    },
+    {
+     "surface": "beg your pardon",
+     "zh": "正式版，也可表示被冒犯"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "What?",
+     "why": "语法没错，但单独一个 What 在英语里显得冲、像在质问",
+     "right": "Sorry? / Pardon?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "Could you say that again, please?",
+     "zh": "能请您再说一遍吗？"
+    }
+   ],
+   "note": "这一组最能体现地区差别：英式一个 Sorry? 或 Pardon? 就够，美式爱说 Come again?，而 What? 在英美都会显得不客气。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "我很忙",
+   "aliases": [
+    "在忙",
+    "忙着呢"
+   ],
+   "variants": [
+    {
+     "content": "I'm busy.",
+     "zh": "我很忙",
+     "style": "口语",
+     "register": "直白。对熟人没问题，对上司说会略显生硬",
+     "recommended": true
+    },
+    {
+     "content": "I'm tied up at the moment.",
+     "zh": "我很忙",
+     "style": "正式",
+     "register": "职场首选。tied up 比 busy 委婉，暗示我脱不开身而不是我不想理你",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "tied up",
+     "zh": "脱不开身，被事情拴住了"
+    },
+    {
+     "surface": "swamped",
+     "zh": "被工作淹没，忙不过来"
+    },
+    {
+     "surface": "snowed under",
+     "zh": "英式，被工作压得喘不过气"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I have many works.",
+     "why": "work 作工作时是不可数名词，不能加 s，也不能用 many",
+     "right": "I have a lot of work."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I'm busy right now — can we talk later?",
+     "zh": "我现在正忙，晚点聊好吗？"
+    },
+    {
+     "en": "I'm a bit tied up — can I call you back?",
+     "zh": "我这边有点走不开，回头给你电话？"
+    }
+   ],
+   "note": "对同事说 swamped，对客户说 tied up，对朋友说 busy。同一件事，听话对象决定用哪个词。",
+   "tags": [
+    "职场",
+    "口语"
+   ]
+  },
+  {
+   "q": "我不知道",
+   "aliases": [
+    "不清楚",
+    "说不好"
+   ],
+   "variants": [
+    {
+     "content": "I don't know.",
+     "zh": "我不知道",
+     "style": "口语",
+     "register": "最直接。语气平的话没问题，语气冲就像在推脱",
+     "recommended": true
+    },
+    {
+     "content": "No idea.",
+     "zh": "我不知道",
+     "style": "口语",
+     "register": "熟人之间的省事说法。对长辈和客户太随意",
+     "recommended": false
+    },
+    {
+     "content": "I'm not sure.",
+     "zh": "我不知道",
+     "style": "正式",
+     "register": "职场最安全。既表达不确定，又留了余地，不像在甩手",
+     "recommended": false
+    },
+    {
+     "content": "Your guess is as good as mine.",
+     "zh": "我不知道",
+     "style": "口语",
+     "register": "带幽默的自嘲，我跟你一样蒙。熟人或轻松场合",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "couldn't say",
+     "zh": "委婉地说不准，英式常用"
+    },
+    {
+     "surface": "guess",
+     "zh": "猜测"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I don't know about it.",
+     "why": "加 about it 后意思变成我对这事不知情/没听说，不是我不知道答案",
+     "right": "I don't know."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I don't know yet — I'll check.",
+     "zh": "我还不知道，我查一下。"
+    },
+    {
+     "en": "No idea, honestly.",
+     "zh": "说实话，完全不知道。"
+    }
+   ],
+   "note": "对客户说 I'm not sure 比 I don't know 好，因为它把不知道变成我需要确认，还留了下次回复的理由。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "等一下",
+   "aliases": [
+    "稍等",
+    "等等"
+   ],
+   "variants": [
+    {
+     "content": "Hold on.",
+     "zh": "等一下",
+     "style": "口语",
+     "register": "电话里、对话中要对方停一下，最常用",
+     "recommended": true
+    },
+    {
+     "content": "Just a moment, please.",
+     "zh": "等一下",
+     "style": "正式",
+     "register": "客服、前台、商务电话。礼貌且不带情绪",
+     "recommended": false
+    },
+    {
+     "content": "Bear with me.",
+     "zh": "等一下",
+     "style": "正式",
+     "register": "请对方容忍一下（我要查/要想/要操作）。职场高频，非常得体",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "Bear with me",
+     "zh": "请稍等、请包涵，职场很得体"
+    },
+    {
+     "surface": "hang on",
+     "zh": "英式等一下"
+    },
+    {
+     "surface": "sec",
+     "zh": "second 的口语缩写，一会儿"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Wait a minute for me.",
+     "why": "Wait for me 是等我（一起走）；要人等一会儿不用 for me",
+     "right": "Wait a minute. / Give me a minute."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Hold on, I need to write this down.",
+     "zh": "等一下，我记一下。"
+    },
+    {
+     "en": "Just a moment, please. I'll put you through.",
+     "zh": "请稍等，我帮您转接。"
+    }
+   ],
+   "note": "Bear with me 是这一组里性价比最高的 —— 职场任何场合都合适，还显得你在认真处理对方的事。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "好的",
+   "aliases": [
+    "行",
+    "没问题",
+    "可以"
+   ],
+   "variants": [
+    {
+     "content": "OK.",
+     "zh": "好的",
+     "style": "口语",
+     "register": "最通用。但语气平淡时可能显得敷衍，书面里尽量少用",
+     "recommended": true
+    },
+    {
+     "content": "No problem.",
+     "zh": "好的",
+     "style": "口语",
+     "register": "对方道谢或道歉时的回应，英美都常用，轻松不生硬",
+     "recommended": false
+    },
+    {
+     "content": "Will do.",
+     "zh": "好的",
+     "style": "正式",
+     "register": "职场里应下任务的高效说法，我会去办。邮件、消息里很地道",
+     "recommended": false
+    },
+    {
+     "content": "Consider it done.",
+     "zh": "好的",
+     "style": "正式",
+     "register": "带点自信和承诺感，适合对上司或客户表态。别对平级用太多",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "Will do",
+     "zh": "职场应允，我会去办"
+    },
+    {
+     "surface": "Consider it done",
+     "zh": "就当已经办好了，表态用"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "OK, I know.",
+     "why": "I know 在英语里常带我早知道了、别啰嗦的意味，容易得罪人",
+     "right": "Got it. / Understood."
+    }
+   ],
+   "examples": [
+    {
+     "en": "OK, I'll take care of it.",
+     "zh": "好，我来处理。"
+    },
+    {
+     "en": "No problem at all.",
+     "zh": "一点问题都没有。"
+    }
+   ],
+   "note": "Will do 是最像本地职场人的两个字，比 OK 有力、比 Sure 稳。Consider it done 则适合需要表态的场合。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "不用了",
+   "aliases": [
+    "不需要",
+    "算了"
+   ],
+   "variants": [
+    {
+     "content": "No, thanks.",
+     "zh": "不用了",
+     "style": "口语",
+     "register": "最标准、最安全的拒绝。短但不失礼",
+     "recommended": true
+    },
+    {
+     "content": "I'll pass, thanks.",
+     "zh": "不用了",
+     "style": "口语",
+     "register": "对邀请、提议的婉拒，比 No 委婉，暗示这次就算了",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "I'm good",
+     "zh": "口语不用了，不是我很好"
+    },
+    {
+     "surface": "pass",
+     "zh": "跳过、这一轮不要"
+    },
+    {
+     "surface": "ta",
+     "zh": "英式口语的谢谢"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I don't need.",
+     "why": "need 是及物动词，后面必须有宾语；单独说不完整",
+     "right": "I don't need it. / No, thanks."
+    }
+   ],
+   "examples": [
+    {
+     "en": "No, thanks — I'm good.",
+     "zh": "不用了，我挺好的。"
+    },
+    {
+     "en": "I'll pass on dessert.",
+     "zh": "甜点我就不用了。"
+    }
+   ],
+   "note": "英式拒绝几乎总是先谢再拒，美式更直接。听懂 I'm good 是不用，比会说它更重要。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "我同意",
+   "aliases": [
+    "说得对",
+    "确实"
+   ],
+   "variants": [
+    {
+     "content": "I agree.",
+     "zh": "我同意",
+     "style": "正式",
+     "register": "明确表态同意。会议、讨论里用，书面也常见",
+     "recommended": true
+    },
+    {
+     "content": "Exactly.",
+     "zh": "我同意",
+     "style": "口语",
+     "register": "对方说了你正想说的话，一个词就够。很地道",
+     "recommended": false
+    },
+    {
+     "content": "You're not wrong.",
+     "zh": "我同意",
+     "style": "口语",
+     "register": "带保留的同意，语气微妙。用错会显得阴阳怪气",
+     "recommended": false
+    },
+    {
+     "content": "Couldn't agree more.",
+     "zh": "我同意",
+     "style": "正式",
+     "register": "强烈同意（= 完全同意）。注意双重否定结构，别说成 I could not agree",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "Fair enough",
+     "zh": "英式行，有道理，不完全同意但接受"
+    },
+    {
+     "surface": "couldn't agree more",
+     "zh": "不能再同意了 = 完全同意"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I very agree with you.",
+     "why": "agree 不能被 very 直接修饰",
+     "right": "I completely agree. / I quite agree."
+    },
+    {
+     "wrong": "I couldn't agree.",
+     "why": "少了 more 意思完全反了，变成我无法同意",
+     "right": "I couldn't agree more."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I agree with your second point.",
+     "zh": "我同意你第二点。"
+    },
+    {
+     "en": "Exactly — that's my worry too.",
+     "zh": "正是这样，我也担心这个。"
+    }
+   ],
+   "note": "Fair enough 是英式对话的润滑剂，它让你既不违心同意、又不至于僵住。Couldn't agree more 少一个 more 就变成反对。",
+   "tags": [
+    "职场",
+    "口语"
+   ]
+  },
+  {
+   "q": "你好吗",
+   "aliases": [
+    "最近怎么样",
+    "过得如何"
+   ],
+   "variants": [
+    {
+     "content": "How are you?",
+     "zh": "你好吗",
+     "style": "正式",
+     "register": "标准问候，但对熟人频繁用会显得客套、有距离",
+     "recommended": true
+    },
+    {
+     "content": "How's it going?",
+     "zh": "你好吗",
+     "style": "口语",
+     "register": "最常用的日常问候，期待的回答是挺好的、你呢，不是长篇汇报",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "You alright",
+     "zh": "英式嗨，不是关心你身体"
+    },
+    {
+     "surface": "What's up",
+     "zh": "美式招呼，也可表示出什么事了"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "How are you? — I am fine, thank you, and you?",
+     "why": "成套背书。母语者一般只回 Good, thanks — you? 这样一句",
+     "right": "Good, thanks. You?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "How are you? It's been a while.",
+     "zh": "你好吗？好久不见。"
+    },
+    {
+     "en": "How's it going? Busy week?",
+     "zh": "最近怎么样？这周忙吗？"
+    }
+   ],
+   "note": "You alright? 是英式问候里最容易误解的一句 —— 它就是在说嗨。同理 What's up? 也不是真在问怎么了。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "我饿了",
+   "aliases": [
+    "肚子饿"
+   ],
+   "variants": [
+    {
+     "content": "I'm hungry.",
+     "zh": "我饿了",
+     "style": "口语",
+     "register": "最普通，任何场合都行",
+     "recommended": true
+    },
+    {
+     "content": "I'm starving.",
+     "zh": "我饿了",
+     "style": "口语",
+     "register": "夸张说法，实际不一定真饿。日常口语高频",
+     "recommended": false
+    },
+    {
+     "content": "I could eat a horse.",
+     "zh": "我饿了",
+     "style": "俚语",
+     "register": "夸张惯用语，饿得能吃下一匹马。轻松场合",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "starving",
+     "zh": "饿极了，口语夸张用法"
+    },
+    {
+     "surface": "peckish",
+     "zh": "英式有点饿、想吃点零食"
+    },
+    {
+     "surface": "famished",
+     "zh": "饿坏了，书面/文学色彩"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I have hunger.",
+     "why": "英语不说 have hunger，这是中文直译",
+     "right": "I'm hungry."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I'm hungry — shall we grab something?",
+     "zh": "我饿了，去吃点什么？"
+    },
+    {
+     "en": "I'm starving — haven't eaten all day.",
+     "zh": "饿死了，一天没吃。"
+    }
+   ],
+   "note": "peckish 这个词在英语里是独一份的 —— 它专门指不饿但想吃点零食，英文里没有对应的中文单词。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "你说什么",
+   "aliases": [
+    "什么意思",
+    "没听懂你说"
+   ],
+   "variants": [
+    {
+     "content": "What do you mean?",
+     "zh": "你说什么",
+     "style": "口语",
+     "register": "最中性，问对方具体指什么。语气平就不会冒犯",
+     "recommended": true
+    },
+    {
+     "content": "What does that mean?",
+     "zh": "你说什么",
+     "style": "正式",
+     "register": "更客观，问词义或含义，不带你没说清楚的指责感",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "mean",
+     "zh": "意思是、指的是"
+    },
+    {
+     "surface": "exactly",
+     "zh": "确切地，用来要求精确"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "You mean what?",
+     "why": "疑问词必须在句首，这是中文语序直译",
+     "right": "What do you mean?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "What do you mean by later?",
+     "zh": "你说的 later 具体指什么时候？"
+    },
+    {
+     "en": "What does that mean in practice?",
+     "zh": "实际操作上这意味着什么？"
+    }
+   ],
+   "note": "想要对方把话说清楚又不撕破脸，用 Meaning what, exactly? 比 What do you mean 更有分量。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "没关系",
+   "aliases": [
+    "没事",
+    "不要紧"
+   ],
+   "variants": [
+    {
+     "content": "It's fine.",
+     "zh": "没关系",
+     "style": "口语",
+     "register": "最常见的回应。语气要松，紧了就像算了、随你",
+     "recommended": true
+    },
+    {
+     "content": "No worries.",
+     "zh": "没关系",
+     "style": "口语",
+     "register": "澳式出身但英美都通用，轻松友好。年轻人高频",
+     "recommended": false
+    },
+    {
+     "content": "Don't mention it.",
+     "zh": "没关系",
+     "style": "正式",
+     "register": "回应道谢（不是道歉），别客气。老一辈常用",
+     "recommended": false
+    },
+    {
+     "content": "These things happen.",
+     "zh": "没关系",
+     "style": "正式",
+     "register": "对方出了错、造成小麻烦时的宽慰话，成熟得体",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "No worries",
+     "zh": "没事、别在意，轻松友好"
+    },
+    {
+     "surface": "No harm done",
+     "zh": "没造成损失"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "It doesn't matter.",
+     "why": "语法对，但语气常被听成无所谓/我不在乎，容易让人不舒服",
+     "right": "It's fine. / No problem."
+    }
+   ],
+   "examples": [
+    {
+     "en": "It's fine, don't worry about it.",
+     "zh": "没事，别放在心上。"
+    },
+    {
+     "en": "No worries at all.",
+     "zh": "一点事都没有。"
+    }
+   ],
+   "note": "Never mind 和 It doesn't matter 都容易被听成冷淡。真想让对方放心，说 No worries 或 These things happen 更暖。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "加油",
+   "aliases": [
+    "你可以的",
+    "别放弃"
+   ],
+   "variants": [
+    {
+     "content": "You can do it.",
+     "zh": "加油",
+     "style": "口语",
+     "register": "最直接的鼓励，任何关系都适用",
+     "recommended": true
+    },
+    {
+     "content": "Hang in there.",
+     "zh": "加油",
+     "style": "口语",
+     "register": "对方正处在难熬的阶段（备考、等项目、生病）时用",
+     "recommended": false
+    },
+    {
+     "content": "Break a leg.",
+     "zh": "加油",
+     "style": "俚语",
+     "register": "演出前专用（戏剧圈忌讳说 good luck）。别用在考试、面试上",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "Hang in there",
+     "zh": "撑住、别放弃，针对艰难阶段"
+    },
+    {
+     "surface": "Give it a go",
+     "zh": "英式试一试"
+    },
+    {
+     "surface": "Break a leg",
+     "zh": "演出前的祝好运，不要说 good luck"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Add oil!",
+     "why": "中文加油直译，英语里没有这个说法，母语者完全听不懂",
+     "right": "You can do it! / Go for it!"
+    }
+   ],
+   "examples": [
+    {
+     "en": "You can do it — you've prepared enough.",
+     "zh": "你可以的，你准备得够充分了。"
+    },
+    {
+     "en": "Hang in there, it's almost over.",
+     "zh": "撑住，快结束了。"
+    }
+   ],
+   "note": "加油在英语里没有对应词，必须按场景选：鼓励去做用 Go for it，鼓励撑住用 Hang in there，演出前用 Break a leg。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "随便",
+   "aliases": [
+    "都行",
+    "看你"
+   ],
+   "variants": [
+    {
+     "content": "It's up to you.",
+     "zh": "随便",
+     "style": "口语",
+     "register": "最得体的你定。把决定权交给对方，不带情绪",
+     "recommended": true
+    },
+    {
+     "content": "Either works for me.",
+     "zh": "随便",
+     "style": "正式",
+     "register": "职场里表达两个都行的得体说法，比 whatever 稳得多",
+     "recommended": false
+    },
+    {
+     "content": "Whatever.",
+     "zh": "随便",
+     "style": "俚语",
+     "register": "危险词。多数情况下听起来是随便你吧（我懒得管），带不耐烦。慎用",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "I'm easy",
+     "zh": "英式我都可以，美式易误解"
+    },
+    {
+     "surface": "up to you",
+     "zh": "由你决定"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Whatever.",
+     "why": "单独一个 Whatever 在英语里几乎等于翻白眼，表示懒得理你",
+     "right": "Either is fine. / It's up to you."
+    }
+   ],
+   "examples": [
+    {
+     "en": "It's up to you — I'm easy either way.",
+     "zh": "你定吧，我都可以。"
+    },
+    {
+     "en": "Tuesday or Wednesday — either works for me.",
+     "zh": "周二周三都行。"
+    }
+   ],
+   "note": "这是中国人最容易踩的一个坑：想说随便就说 Whatever，结果对方觉得你在生气。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "好久不见",
+   "aliases": [
+    "很久没见"
+   ],
+   "variants": [
+    {
+     "content": "Long time no see.",
+     "zh": "好久不见",
+     "style": "口语",
+     "register": "确实是英语里的固定说法（源自早期洋泾浜），但偏随意、有点老套",
+     "recommended": true
+    },
+    {
+     "content": "It's been a while.",
+     "zh": "好久不见",
+     "style": "口语",
+     "register": "更自然、更现代的说法。任何年龄层都合适",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "in ages",
+     "zh": "很久（夸张用法）"
+    },
+    {
+     "surface": "donkey's years",
+     "zh": "英式俚语，极长时间"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "We have not seen for a long time.",
+     "why": "see 在这里要带宾语，缺了 each other；而且英语习惯用 It has been a while",
+     "right": "It's been a while. / We haven't seen each other in a while."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Long time no see! How have you been?",
+     "zh": "好久不见！你怎么样？"
+    },
+    {
+     "en": "It's been a while — you look great.",
+     "zh": "好久不见了，你气色真好。"
+    }
+   ],
+   "note": "Long time no see 虽然母语者也说，但带点玩笑和老套感。想显得自然，用 It has been a while。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "我请客",
+   "aliases": [
+    "我买单",
+    "这顿我付"
+   ],
+   "variants": [
+    {
+     "content": "It's on me.",
+     "zh": "我请客",
+     "style": "口语",
+     "register": "最地道的我来付，干脆不生硬",
+     "recommended": true
+    },
+    {
+     "content": "My treat.",
+     "zh": "我请客",
+     "style": "口语",
+     "register": "强调是我请客，常配合一起吃饭的语境",
+     "recommended": false
+    },
+    {
+     "content": "Put your wallet away.",
+     "zh": "我请客",
+     "style": "口语",
+     "register": "带玩笑的强势请客，把钱包收起来。关系近才这么说",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "on me",
+     "zh": "由我付账"
+    },
+    {
+     "surface": "settle up",
+     "zh": "英式结账"
+    },
+    {
+     "surface": "treat",
+     "zh": "请客、款待"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I pay for you.",
+     "why": "语法可通但很不自然，听起来像在算账",
+     "right": "It's on me. / My treat."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Dinner's on me tonight.",
+     "zh": "今晚晚饭我请。"
+    },
+    {
+     "en": "Come on, my treat.",
+     "zh": "来吧，我请。"
+    }
+   ],
+   "note": "It's on me 是三个词里最像本地人的说法；I'll get this 则是伸手拿账单时最自然的一句。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "我准备走了你们继续",
+   "aliases": [
+    "我先走了你们继续",
+    "我先走了你们慢聊",
+    "不打扰你们了你们继续"
+   ],
+   "variants": [
+    {
+     "content": "I won't keep you.",
+     "zh": "我准备走了你们继续",
+     "style": "口语",
+     "register": "对方正在聊天或忙事时表示不再占用时间，语气自然，不等于正式告辞",
+     "recommended": true
+    }
+   ],
+   "words": [
+    {
+     "surface": "carry on",
+     "zh": "继续做刚才的事"
+    },
+    {
+     "surface": "leave you to it",
+     "zh": "不打扰你继续忙"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I will go first.",
+     "why": "中文语序直译；英语里要说明自己离开，同时交代对方继续做什么",
+     "right": "I'll let you carry on. / I'll leave you to it."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I won't keep you — you carry on.",
+     "zh": "我不耽误你们了，你们继续。"
+    }
+   ],
+   "note": "“我准备走了，你们继续”重点不是单纯告别，而是把场子留给对方。用 let you carry on、leave you to it 或 you carry on，才能表达“不打扰你们继续”。",
+   "tags": [
+    "日常生活",
+    "口语"
+   ]
+  },
+  {
+   "q": "我得走了",
+   "aliases": [
+    "告辞"
+   ],
+   "variants": [
+    {
+     "content": "I have to go.",
+     "zh": "我得走了",
+     "style": "口语",
+     "register": "直白。熟人之间没问题，正式场合略生硬",
+     "recommended": true
+    },
+    {
+     "content": "I'd better get going.",
+     "zh": "我得走了",
+     "style": "口语",
+     "register": "最自然、最不出错的告辞，任何场合都适用",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "head off",
+     "zh": "动身、离开"
+    },
+    {
+     "surface": "get going",
+     "zh": "该动身了"
+    },
+    {
+     "surface": "I'm off",
+     "zh": "英式我走了"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I go first.",
+     "why": "中文我先走直译，英语里没有这个语序和说法",
+     "right": "I'd better get going."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I have to go — talk later.",
+     "zh": "我得走了，回头聊。"
+    },
+    {
+     "en": "I'd better get going. Thanks for having me.",
+     "zh": "我该走了，谢谢你招待。"
+    }
+   ],
+   "note": "对方在忙时最漂亮的一句是 I'll leave you to it —— 既告辞又体贴，英式职场里非常好用。",
+   "tags": [
+    "职场",
+    "口语"
+   ]
+  },
+  {
+   "q": "稍后联系你",
+   "aliases": [
+    "回头找你",
+    "等会聊"
+   ],
+   "variants": [
+    {
+     "content": "I'll get back to you.",
+     "zh": "稍后联系你",
+     "style": "正式",
+     "register": "职场标准说法，承诺我会回复你。带责任感",
+     "recommended": true
+    },
+    {
+     "content": "Talk later.",
+     "zh": "稍后联系你",
+     "style": "口语",
+     "register": "熟人之间的收尾，很随意",
+     "recommended": false
+    },
+    {
+     "content": "I'll ping you.",
+     "zh": "稍后联系你",
+     "style": "口语",
+     "register": "很现代的说法，ping = 发消息给你。年轻职场常用",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "get back to",
+     "zh": "回复某人"
+    },
+    {
+     "surface": "circle back",
+     "zh": "美式商务回头再议"
+    },
+    {
+     "surface": "ping",
+     "zh": "发消息给某人（口语新用法）"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I'll contact with you later.",
+     "why": "contact 是及物动词，不加 with",
+     "right": "I'll contact you later. / I'll get back to you."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I'll get back to you by end of day.",
+     "zh": "我今天下班前回复你。"
+    },
+    {
+     "en": "Talk later — got a call coming in.",
+     "zh": "等会聊，来电话了。"
+    }
+   ],
+   "note": "I'll get back to you 是最稳的承诺；circle back 是美式会议黑话，英式场合换成 pick this up later 更自然。",
+   "tags": [
+    "职场",
+    "口语"
+   ]
+  },
+  {
+   "q": "我不确定",
+   "aliases": [
+    "不确定",
+    "拿不准"
+   ],
+   "variants": [
+    {
+     "content": "I'm not sure.",
+     "zh": "我不确定",
+     "style": "正式",
+     "register": "最安全的表达不确定，不会显得推卸",
+     "recommended": true
+    },
+    {
+     "content": "I can't say for certain.",
+     "zh": "我不确定",
+     "style": "正式",
+     "register": "更郑重，适合需要给出专业判断的场合",
+     "recommended": false
+    },
+    {
+     "content": "It's up in the air.",
+     "zh": "我不确定",
+     "style": "口语",
+     "register": "指事情还没定。形象、地道",
+     "recommended": false
+    },
+    {
+     "content": "Your guess is as good as mine.",
+     "zh": "我不确定",
+     "style": "俚语",
+     "register": "轻松自嘲，我跟你一样不清楚",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "up in the air",
+     "zh": "悬而未决"
+    },
+    {
+     "surface": "bank on",
+     "zh": "指望、依赖"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I'm not sure about that it will work.",
+     "why": "about 后不能直接接 that 从句",
+     "right": "I'm not sure that it will work."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I'm not sure that's right.",
+     "zh": "那个我不太确定对不对。"
+    },
+    {
+     "en": "I can't say for certain until we test it.",
+     "zh": "测试之前我说不准。"
+    }
+   ],
+   "note": "I wouldn't bank on it 是英式职场的高级委婉 —— 它把不行说成别抱期待，留了面子。",
+   "tags": [
+    "职场",
+    "口语"
+   ]
+  },
+  {
+   "q": "对不起",
+   "aliases": [
+    "抱歉",
+    "不好意思"
+   ],
+   "variants": [
+    {
+     "content": "Sorry!",
+     "zh": "对不起",
+     "style": "口语",
+     "register": "撞到人、迟到、打断别人都用它。最轻，几乎万能",
+     "recommended": true
+    },
+    {
+     "content": "I’m so sorry.",
+     "zh": "对不起",
+     "style": "口语",
+     "register": "加重版。对方真的受了影响时用，语气真诚不夸张",
+     "recommended": false
+    },
+    {
+     "content": "Excuse me.",
+     "zh": "对不起",
+     "style": "正式",
+     "register": "不是道歉，是「打扰一下」：问路、插话、从人前走过",
+     "recommended": false
+    },
+    {
+     "content": "Please accept my apologies.",
+     "zh": "对不起",
+     "style": "书面",
+     "register": "邮件、公文里的正式道歉。口语说会像在念信",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "sorry",
+     "zh": "抱歉的；也用于没听清时请求重复"
+    },
+    {
+     "surface": "apologize",
+     "zh": "道歉（动作），apologize to sb for sth"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Sorry, I am sorry.",
+     "why": "重复堆叠，母语者不会连说两遍；中文「对不起对不起」的习惯直译过来就显得慌",
+     "right": "Sorry about that."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Sorry, I didn’t catch that.",
+     "zh": "对不起，我没听清。"
+    },
+    {
+     "en": "I’m so sorry — I completely forgot.",
+     "zh": "真抱歉，我完全忘了。"
+    }
+   ],
+   "note": "Excuse me 和 Sorry 分工很清：要打断/打扰别人用 Excuse me，真做错了事用 Sorry。中国人常把「不好意思」一律说成 Sorry，问路时听着像在道歉。",
+   "tags": [
+    "日常生活",
+    "社交"
+   ]
+  },
+  {
+   "q": "再见",
+   "aliases": [
+    "拜拜",
+    "回头见"
+   ],
+   "variants": [
+    {
+     "content": "Bye!",
+     "zh": "再见",
+     "style": "口语",
+     "register": "最常用，任何关系都能用。电话里说两遍 Bye-bye 也不奇怪",
+     "recommended": true
+    },
+    {
+     "content": "See you.",
+     "zh": "再见",
+     "style": "口语",
+     "register": "还会再见的场合。See you later / See you Monday 更具体",
+     "recommended": false
+    },
+    {
+     "content": "Take care.",
+     "zh": "再见",
+     "style": "口语",
+     "register": "带关心的道别，适合长辈、朋友、病人。陌生人之间略亲",
+     "recommended": false
+    },
+    {
+     "content": "Goodbye.",
+     "zh": "再见",
+     "style": "正式",
+     "register": "偏正式/略生分。跟同事天天说 Goodbye 会显得客气过头",
+     "recommended": false
+    },
+    {
+     "content": "I look forward to hearing from you.",
+     "zh": "再见",
+     "style": "书面",
+     "register": "邮件结尾固定句，商务必备。比 Hope to hear from you 得体",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "goodbye",
+     "zh": "再见（正式，稍生分）"
+    },
+    {
+     "surface": "take care",
+     "zh": "保重，道别时的关心语"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Goodbye, teacher!",
+     "why": "英语里不把 teacher 当称呼，这是中式直译；对老师直接说 Mr./Ms. + 姓",
+     "right": "Goodbye, Mr. Chen!"
+    }
+   ],
+   "examples": [
+    {
+     "en": "Bye! See you tomorrow.",
+     "zh": "拜！明天见。"
+    },
+    {
+     "en": "See you at the meeting.",
+     "zh": "会上见。"
+    }
+   ],
+   "note": "英语道别很少用 Goodbye，太正式。日常就是 Bye / See you / Take care。邮件里则相反，Goodbye 从不用，要用 Best regards / Looking forward to hearing from you。",
+   "tags": [
+    "日常生活",
+    "社交"
+   ]
+  },
+  {
+   "q": "请再说一遍",
+   "aliases": [
+    "我没听清",
+    "再说一次"
+   ],
+   "variants": [
+    {
+     "content": "Could you repeat that?",
+     "zh": "请再说一遍",
+     "style": "正式",
+     "register": "最安全的一句，任何场合都不失礼。后面可加 please",
+     "recommended": true
+    },
+    {
+     "content": "I didn’t catch that.",
+     "zh": "请再说一遍",
+     "style": "口语",
+     "register": "地道且自然。catch 表示「听清」，比 hear 更常说",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "pardon",
+     "zh": "请再说一遍（英式）；也指赦免"
+    },
+    {
+     "surface": "catch",
+     "zh": "听清、听懂（I didn’t catch that）"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "What?",
+     "why": "单词没错，但单独一个 What? 在英语里是质问语气，对陌生人/上司很不礼貌",
+     "right": "Sorry, what was that?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "Could you repeat that a little slower?",
+     "zh": "能慢一点再说一遍吗？"
+    },
+    {
+     "en": "Sorry, I didn’t catch your name.",
+     "zh": "抱歉，我没听清你的名字。"
+    }
+   ],
+   "note": "中文用「啊？」「什么？」追问，英语里直接说 What? 会显得冲。最稳的是 Sorry? 或 Could you repeat that?",
+   "tags": [
+    "日常生活",
+    "听力"
+   ]
+  },
+  {
+   "q": "多少钱",
+   "aliases": [
+    "这个怎么卖",
+    "价格"
+   ],
+   "variants": [
+    {
+     "content": "How much is it?",
+     "zh": "多少钱",
+     "style": "口语",
+     "register": "最通用。指着东西说就行，不用完整句",
+     "recommended": true
+    },
+    {
+     "content": "How much does it cost?",
+     "zh": "多少钱",
+     "style": "正式",
+     "register": "完整句，语气客气一点。问服务/大件时更自然",
+     "recommended": false
+    },
+    {
+     "content": "What’s the price?",
+     "zh": "多少钱",
+     "style": "正式",
+     "register": "书面感强，购物现场略生硬但没错",
+     "recommended": false
+    },
+    {
+     "content": "How much are these?",
+     "zh": "多少钱",
+     "style": "口语",
+     "register": "复数要换 are。买一堆东西时用这句",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "how much",
+     "zh": "多少钱；接不可数名词时表示「多少」"
+    },
+    {
+     "surface": "cost",
+     "zh": "花费；成本。主语是物，不是人"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "How much money?",
+     "why": "中文「多少钱」直译。英语里 money 多余，问价就是 How much (is it)?",
+     "right": "How much is it?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "How much is this one?",
+     "zh": "这个多少钱？"
+    },
+    {
+     "en": "How much does it cost to deliver?",
+     "zh": "送货要多少钱？"
+    }
+   ],
+   "note": "问价别加 money。另外 cost 的主语是东西（It costs 10 dollars），花钱的主语才是人（I spent 10 dollars）。",
+   "tags": [
+    "购物",
+    "旅行"
+   ]
+  },
+  {
+   "q": "买单",
+   "aliases": [
+    "结账",
+    "我要付钱"
+   ],
+   "variants": [
+    {
+     "content": "I’d like to pay, please.",
+     "zh": "买单",
+     "style": "正式",
+     "register": "不说账单只说付钱，柜台、小店都行",
+     "recommended": true
+    },
+    {
+     "content": "Let’s split the bill.",
+     "zh": "买单",
+     "style": "口语",
+     "register": "AA 制。美式说 split the check 或 go Dutch",
+     "recommended": false
+    },
+    {
+     "content": "It’s on me.",
+     "zh": "买单",
+     "style": "口语",
+     "register": "我请客。比 I will pay 更地道、更轻松",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "bill",
+     "zh": "账单（英式）；法案"
+    },
+    {
+     "surface": "check",
+     "zh": "账单（美式）；支票；检查"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I want to pay the money.",
+     "why": "pay the money 是多余的中式搭配，英语 pay 后面直接跟账单或人",
+     "right": "I’d like to pay, please."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I’d like to pay by card, please.",
+     "zh": "我刷卡付。"
+    },
+    {
+     "en": "Let’s split the bill — three ways.",
+     "zh": "咱们 AA 吧，三个人平分。"
+    }
+   ],
+   "note": "英式 bill、美式 check，这是最典型的英美差别之一。在英国点 check 服务员会以为你要支票。",
+   "tags": [
+    "餐厅",
+    "旅行"
+   ]
+  },
+  {
+   "q": "问路",
+   "aliases": [
+    "怎么走",
+    "在哪儿"
+   ],
+   "variants": [
+    {
+     "content": "Excuse me, how do I get to the station?",
+     "zh": "问路",
+     "style": "正式",
+     "register": "最标准。开头必须先 Excuse me，否则像在质问",
+     "recommended": true
+    },
+    {
+     "content": "Where’s the nearest bank?",
+     "zh": "问路",
+     "style": "口语",
+     "register": "口语常缩成 Where’s。加 nearest 比笼统问更实用",
+     "recommended": false
+    },
+    {
+     "content": "Is it far from here?",
+     "zh": "问路",
+     "style": "口语",
+     "register": "问完路一定要追问这句，否则可能被指去三公里外",
+     "recommended": false
+    },
+    {
+     "content": "I’m trying to find the post office.",
+     "zh": "问路",
+     "style": "口语",
+     "register": "用陈述句求助，比直接提问更柔和，路人更愿意搭话",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "direction",
+     "zh": "方向；directions 指路线说明"
+    },
+    {
+     "surface": "nearest",
+     "zh": "最近的（near 的最高级）"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Where is the station? How to go?",
+     "why": "How to go 不是完整句，也没有主语，是典型中式拼接",
+     "right": "How do I get to the station?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "Excuse me, how do I get to King’s Cross?",
+     "zh": "劳驾，国王十字车站怎么走？"
+    },
+    {
+     "en": "Where’s the nearest bank around here?",
+     "zh": "这附近最近的银行在哪？"
+    }
+   ],
+   "note": "问路的第一句永远是 Excuse me，这是英语的社交开关。少了它，句子再对也显得没礼貌。",
+   "tags": [
+    "旅行",
+    "日常生活"
+   ]
+  },
+  {
+   "q": "我不明白",
+   "aliases": [
+    "没听懂",
+    "不懂"
+   ],
+   "variants": [
+    {
+     "content": "I don’t understand.",
+     "zh": "我不明白",
+     "style": "口语",
+     "register": "最直白。对老师、同事都能说，不丢脸",
+     "recommended": true
+    },
+    {
+     "content": "I’m not sure I follow.",
+     "zh": "我不明白",
+     "style": "正式",
+     "register": "职场常用，比 don’t understand 委婉，暗示「你再说清楚点」",
+     "recommended": false
+    },
+    {
+     "content": "Sorry, I’m lost.",
+     "zh": "我不明白",
+     "style": "口语",
+     "register": "轻松自嘲式，适合熟人、课堂。正式场合略随意",
+     "recommended": false
+    },
+    {
+     "content": "Could you explain that again?",
+     "zh": "我不明白",
+     "style": "正式",
+     "register": "要求重讲，礼貌且明确。加 in simpler terms 更清楚",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "follow",
+     "zh": "跟上（思路）、听懂"
+    },
+    {
+     "surface": "explain",
+     "zh": "解释。explain sth to sb，不能说 explain me"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Please explain me this.",
+     "why": "explain 不能带双宾语，必须 explain sth to sb",
+     "right": "Please explain this to me."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I don’t understand this part.",
+     "zh": "这部分我不明白。"
+    },
+    {
+     "en": "I’m not sure I follow — which figure are we talking about?",
+     "zh": "我没太跟上，你说的是哪个数字？"
+    }
+   ],
+   "note": "「不明白」在英语里有语气梯度：I’m lost 最轻松，I don’t understand 中性，I’m not sure I follow 最委婉。职场里用第一句会显得太直。",
+   "tags": [
+    "日常生活",
+    "听力"
+   ]
+  },
+  {
+   "q": "我不同意",
+   "aliases": [
+    "反对",
+    "不赞同"
+   ],
+   "variants": [
+    {
+     "content": "I see it differently.",
+     "zh": "我不同意",
+     "style": "正式",
+     "register": "不说「你错」，只说「我看得不一样」，会议里最安全",
+     "recommended": true
+    },
+    {
+     "content": "I’m not sure that’s right.",
+     "zh": "我不同意",
+     "style": "口语",
+     "register": "日常反对，语气轻。适合同事、朋友之间",
+     "recommended": false
+    },
+    {
+     "content": "That’s a fair point, but…",
+     "zh": "我不同意",
+     "style": "正式",
+     "register": "先肯定再反驳，英语会议里的黄金句式",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "disagree",
+     "zh": "不同意。disagree with sb/sth"
+    },
+    {
+     "surface": "assessment",
+     "zh": "评估、判断"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I disagree you.",
+     "why": "disagree 是不及物动词，必须加 with",
+     "right": "I disagree with you."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I see it differently — the cost is only part of it.",
+     "zh": "我看法不太一样，成本只是一部分。"
+    },
+    {
+     "en": "I’m not sure that’s right — let me check.",
+     "zh": "我觉得这不一定对，我查一下。"
+    }
+   ],
+   "note": "英语里直接说 You are wrong 等于当面打脸。标准做法是先认可（That’s a fair point）再转折（but…），这不是客套，是语法级的礼貌。",
+   "tags": [
+    "职场",
+    "表达"
+   ]
+  },
+  {
+   "q": "请帮忙",
+   "aliases": [
+    "能不能帮我",
+    "麻烦你"
+   ],
+   "variants": [
+    {
+     "content": "Could you help me with this?",
+     "zh": "请帮忙",
+     "style": "正式",
+     "register": "标准请求句。Could 比 Can 客气一档",
+     "recommended": true
+    },
+    {
+     "content": "Can you do me a favour?",
+     "zh": "请帮忙",
+     "style": "口语",
+     "register": "熟人之间。美式拼 favor，英式 favour",
+     "recommended": false
+    },
+    {
+     "content": "I’d appreciate it if you could…",
+     "zh": "请帮忙",
+     "style": "书面",
+     "register": "邮件请求的标准句式，后面接动词原形",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "favour",
+     "zh": "帮忙、人情（英式拼法；美式 favor）"
+    },
+    {
+     "surface": "appreciate",
+     "zh": "感激。后面接事，不接人"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Please help me to do this thing.",
+     "why": "thing 太笼统，加 to 也啰嗦；英语请求更倾向具体动词",
+     "right": "Could you help me move this table?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "Could you help me with these boxes?",
+     "zh": "能帮我搬一下这些箱子吗？"
+    },
+    {
+     "en": "Can you do me a favour? Don’t tell him yet.",
+     "zh": "帮我个忙，先别告诉他。"
+    }
+   ],
+   "note": "Would you mind…? 是最容易答错的句型：回答 No 表示「不介意」＝愿意帮；回答 Yes 反而是拒绝。听不懂就用 Sure 回应。",
+   "tags": [
+    "日常生活",
+    "社交"
+   ]
+  },
+  {
+   "q": "谢绝",
+   "aliases": [
+    "不了谢谢",
+    "委婉拒绝"
+   ],
+   "variants": [
+    {
+     "content": "I’ll pass, thanks.",
+     "zh": "谢绝",
+     "style": "口语",
+     "register": "轻松拒绝，朋友邀约、递东西都合适，不伤人",
+     "recommended": true
+    },
+    {
+     "content": "I’d love to, but I can’t.",
+     "zh": "谢绝",
+     "style": "口语",
+     "register": "先表达愿意再拒绝，英语里最不容易得罪人的结构",
+     "recommended": false
+    },
+    {
+     "content": "No, thank you.",
+     "zh": "谢绝",
+     "style": "正式",
+     "register": "最安全。注意别只说 No，会显得冷",
+     "recommended": false
+    },
+    {
+     "content": "Unfortunately, we’re unable to…",
+     "zh": "谢绝",
+     "style": "书面",
+     "register": "邮件拒绝标准开头，比 We can’t 体面得多",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "pass",
+     "zh": "跳过、不要（I’ll pass）"
+    },
+    {
+     "surface": "unfortunately",
+     "zh": "不幸的是（正式拒绝的软化词）"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "No.",
+     "why": "单独一个 No 在英语里很硬，尤其对长辈、客户，听起来像不耐烦",
+     "right": "No, thank you."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I’ll pass on dessert, thanks — I’m full.",
+     "zh": "甜点我就不用了，谢谢，我吃饱了。"
+    },
+    {
+     "en": "I’d love to, but I’m away that weekend.",
+     "zh": "我很想去，但那个周末我不在。"
+    }
+   ],
+   "note": "英语拒绝的公式是「肯定 + 转折」：I’d love to, but… / That sounds great, but…。直接说 No 不算错，但关系会变冷。",
+   "tags": [
+    "社交",
+    "表达"
+   ]
+  },
+  {
+   "q": "恭喜",
+   "aliases": [
+    "祝贺",
+    "干得好"
+   ],
+   "variants": [
+    {
+     "content": "Congratulations!",
+     "zh": "恭喜",
+     "style": "正式",
+     "register": "永远用复数，别漏 s。升学、升职、结婚都用它",
+     "recommended": true
+    },
+    {
+     "content": "Congrats!",
+     "zh": "恭喜",
+     "style": "口语",
+     "register": "口语缩写，短信、群聊常见。正式场合别用",
+     "recommended": false
+    },
+    {
+     "content": "That’s fantastic news.",
+     "zh": "恭喜",
+     "style": "口语",
+     "register": "听到好消息的第一反应句，比 Congratulations 更热络",
+     "recommended": false
+    },
+    {
+     "content": "Please accept my warmest congratulations.",
+     "zh": "恭喜",
+     "style": "书面",
+     "register": "贺信/正式邮件用。日常说会像在念贺卡",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "congratulations",
+     "zh": "祝贺（恒用复数）"
+    },
+    {
+     "surface": "promotion",
+     "zh": "晋升、升职"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Congratulation!",
+     "why": "漏了 s。英语里这个名词祝贺时固定用复数",
+     "right": "Congratulations!"
+    }
+   ],
+   "examples": [
+    {
+     "en": "Congratulations on your new job!",
+     "zh": "恭喜你找到新工作！"
+    },
+    {
+     "en": "Congrats, mate — you earned it.",
+     "zh": "恭喜啊兄弟，这是你应得的。"
+    }
+   ],
+   "note": "Congratulations 后面接 on + 事由：Congratulations on your wedding。中文「恭喜你结婚」直译成 Congratulations you marry 是典型中式英语。",
+   "tags": [
+    "社交",
+    "职场"
+   ]
+  },
+  {
+   "q": "安慰",
+   "aliases": [
+    "节哀",
+    "别难过"
+   ],
+   "variants": [
+    {
+     "content": "I’m sorry to hear that.",
+     "zh": "安慰",
+     "style": "口语",
+     "register": "听到坏消息的第一句，万能且得体",
+     "recommended": true
+    },
+    {
+     "content": "That’s really tough.",
+     "zh": "安慰",
+     "style": "口语",
+     "register": "承认对方不容易，比空洞的 Don’t worry 更让人舒服",
+     "recommended": false
+    },
+    {
+     "content": "Please accept my condolences.",
+     "zh": "安慰",
+     "style": "书面",
+     "register": "只用于丧事，别乱用。用错场合非常尴尬",
+     "recommended": false
+    },
+    {
+     "content": "Let me know if there’s anything I can do.",
+     "zh": "安慰",
+     "style": "口语",
+     "register": "英美的标准安慰收尾，比「加油」更实际",
+     "recommended": false
+    },
+    {
+     "content": "I’m here if you need to talk.",
+     "zh": "安慰",
+     "style": "口语",
+     "register": "对亲近的人用，给陪伴而不给建议",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "condolence",
+     "zh": "哀悼、慰问（只用复数，丧事专用）"
+    },
+    {
+     "surface": "tough",
+     "zh": "艰难的、难熬的"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Cheer up! Don’t be sad.",
+     "why": "英语里命令别人「振作」显得轻率，等于否定对方的悲伤",
+     "right": "I’m so sorry. That’s really hard."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I’m sorry to hear about your father.",
+     "zh": "听说你父亲的事，我很难过。"
+    },
+    {
+     "en": "That’s really tough — how are you holding up?",
+     "zh": "这真的很难熬，你还好吗？"
+    }
+   ],
+   "note": "中文安慰爱说「想开点」「加油」，英语文化里这类话会被听成「你不该难过」。地道做法是承认痛苦 + 提供陪伴。",
+   "tags": [
+    "社交",
+    "情感"
+   ]
+  },
+  {
+   "q": "投诉",
+   "aliases": [
+    "我要反映问题",
+    "抱怨"
+   ],
+   "variants": [
+    {
+     "content": "I’m not happy with this.",
+     "zh": "投诉",
+     "style": "口语",
+     "register": "轻量抱怨，先礼后兵的第一步",
+     "recommended": true
+    },
+    {
+     "content": "This isn’t what I ordered.",
+     "zh": "投诉",
+     "style": "口语",
+     "register": "餐厅/收货时最直接也最有效，具体到事实而非情绪",
+     "recommended": false
+    },
+    {
+     "content": "Could I speak to the manager?",
+     "zh": "投诉",
+     "style": "正式",
+     "register": "升级信号。说完这句，对方态度通常立刻变",
+     "recommended": false
+    },
+    {
+     "content": "I’d like to escalate this.",
+     "zh": "投诉",
+     "style": "书面",
+     "register": "商务邮件用语，正式要求上级介入",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "complaint",
+     "zh": "投诉（名词）"
+    },
+    {
+     "surface": "complain",
+     "zh": "抱怨、投诉。complain about sth"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I want to complain you.",
+     "why": "complain 后面不能直接接人，要用 complain about / to",
+     "right": "I want to complain about the noise."
+    }
+   ],
+   "examples": [
+    {
+     "en": "I’m not happy with the service we received.",
+     "zh": "我们对这次的服务不满意。"
+    },
+    {
+     "en": "This isn’t what I ordered — I asked for no onions.",
+     "zh": "这不是我点的，我说了不要洋葱。"
+    }
+   ],
+   "note": "投诉的关键是把情绪换成事实：不说 It’s terrible，说 The room hasn’t been cleaned。英语服务场景里，具体描述比形容词有力得多。",
+   "tags": [
+    "职场",
+    "服务"
+   ]
+  },
+  {
+   "q": "预约",
+   "aliases": [
+    "订位",
+    "预订"
+   ],
+   "variants": [
+    {
+     "content": "Do you have anything available?",
+     "zh": "预约",
+     "style": "口语",
+     "register": "没指定时间时的万能问法，让对方给选项",
+     "recommended": true
+    },
+    {
+     "content": "I need to reschedule.",
+     "zh": "预约",
+     "style": "正式",
+     "register": "改约。cancel 是取消，reschedule 才是改期",
+     "recommended": false
+    },
+    {
+     "content": "Could I book an appointment with Dr. Lee?",
+     "zh": "预约",
+     "style": "正式",
+     "register": "看病、办事都用 appointment（见人的约），不用 book a time",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "reservation",
+     "zh": "预订（美式常用）"
+    },
+    {
+     "surface": "reschedule",
+     "zh": "改期"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I want to book a time with the doctor.",
+     "why": "英语里见人的约固定叫 appointment，book a time 听着像订场地",
+     "right": "I’d like to make an appointment with the doctor."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Do you have anything available tomorrow afternoon?",
+     "zh": "明天下午还有空位吗？"
+    },
+    {
+     "en": "I need to reschedule my appointment to next week.",
+     "zh": "我想把预约改到下周。"
+    }
+   ],
+   "note": "book 和 reserve 都能用，但餐厅订位英式说 book a table、美式说 make a reservation。见医生/律师一律 appointment。",
+   "tags": [
+    "旅行",
+    "服务"
+   ]
+  },
+  {
+   "q": "我迟到了",
+   "aliases": [
+    "路上堵",
+    "马上到"
+   ],
+   "variants": [
+    {
+     "content": "Sorry I’m late.",
+     "zh": "我迟到了",
+     "style": "口语",
+     "register": "进门第一句。别解释理由，先道歉",
+     "recommended": true
+    },
+    {
+     "content": "I’m running late.",
+     "zh": "我迟到了",
+     "style": "口语",
+     "register": "还在路上时发消息用，比 I will be late 自然",
+     "recommended": false
+    },
+    {
+     "content": "I’m on my way.",
+     "zh": "我迟到了",
+     "style": "口语",
+     "register": "已经出发。注意还没出门就不能说这句",
+     "recommended": false
+    },
+    {
+     "content": "Please accept my apologies for the delay.",
+     "zh": "我迟到了",
+     "style": "书面",
+     "register": "邮件/会议纪要里的正式致歉，delay 指延误本身",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "running late",
+     "zh": "要迟到了、正在赶"
+    },
+    {
+     "surface": "delay",
+     "zh": "延误"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I am late because the road is very jam.",
+     "why": "jam 是名词，不能直接跟在 is 后面；且英语更常说 stuck in traffic",
+     "right": "I’m late — I got stuck in traffic."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Sorry I’m late — the traffic was awful.",
+     "zh": "抱歉我迟到了，路上太堵。"
+    },
+    {
+     "en": "I’m running about ten minutes late.",
+     "zh": "我会晚到十分钟左右。"
+    }
+   ],
+   "note": "英语里道歉不解释理由更显诚意：先说 Sorry I’m late，再说原因。反过来先讲堵车，听起来像在推责任。",
+   "tags": [
+    "职场",
+    "日常生活"
+   ]
+  },
+  {
+   "q": "我们开始吧",
+   "aliases": [
+    "会议开始",
+    "进入正题"
+   ],
+   "variants": [
+    {
+     "content": "Thanks for joining, everyone.",
+     "zh": "我们开始吧",
+     "style": "正式",
+     "register": "线上会议开场，先致谢再进议程",
+     "recommended": true
+    },
+    {
+     "content": "Today we’ll cover three things.",
+     "zh": "我们开始吧",
+     "style": "正式",
+     "register": "给出议程数量，听众立刻有预期，是高效开会的标志",
+     "recommended": false
+    },
+    {
+     "content": "Let’s move on to the next item.",
+     "zh": "我们开始吧",
+     "style": "正式",
+     "register": "推进议程的标准过渡句，比 next 单词更完整",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "agenda",
+     "zh": "议程；也可指隐藏目的"
+    },
+    {
+     "surface": "cover",
+     "zh": "涵盖、讲到（会议内容）"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "Let’s start the meeting now, everyone please listen.",
+     "why": "命令式堆叠，像在管学生；英语会议开场靠商量语气",
+     "right": "Shall we get started?"
+    }
+   ],
+   "examples": [
+    {
+     "en": "Thanks for joining, everyone — let’s keep this to thirty minutes.",
+     "zh": "谢谢各位参加，我们控制在三十分钟内。"
+    },
+    {
+     "en": "Today we’ll cover three things: budget, timeline, and risks.",
+     "zh": "今天讲三件事：预算、时间表、风险。"
+    }
+   ],
+   "note": "英语会议有固定节拍：致谢 → 给议程 → 逐项推进 → 收尾定 action items。会说这四个动作，比背单词有用。",
+   "tags": [
+    "职场",
+    "会议"
+   ]
+  },
+  {
+   "q": "我建议",
+   "aliases": [
+    "不如我们",
+    "提个建议"
+   ],
+   "variants": [
+    {
+     "content": "Why don’t we try a different approach?",
+     "zh": "我建议",
+     "style": "口语",
+     "register": "不是质问，是建议。英语里最常用的软建议句式",
+     "recommended": true
+    },
+    {
+     "content": "How about we push it to next week?",
+     "zh": "我建议",
+     "style": "口语",
+     "register": "口语提议，how about 后面可直接跟句子",
+     "recommended": false
+    },
+    {
+     "content": "I’d suggest we wait for the data.",
+     "zh": "我建议",
+     "style": "正式",
+     "register": "正式建议。suggest 后接从句用原形或 should",
+     "recommended": false
+    },
+    {
+     "content": "May I make a suggestion?",
+     "zh": "我建议",
+     "style": "正式",
+     "register": "先申请发言权，会议上打断别人时的礼貌入口",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "suggest",
+     "zh": "建议。suggest doing / suggest that sb (should) do"
+    },
+    {
+     "surface": "approach",
+     "zh": "方法、思路"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I suggest you to go.",
+     "why": "suggest 不接 to do，这是中国学习者最高频错误之一",
+     "right": "I suggest you go. / I suggest going."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Why don’t we try a different approach?",
+     "zh": "不如换个思路试试？"
+    },
+    {
+     "en": "How about we push it to next week?",
+     "zh": "推到下周怎么样？"
+    }
+   ],
+   "note": "suggest 的句型是硬规则：suggest doing 或 suggest that sb do，绝不 suggest sb to do。记不住就用 Why don’t we，永远不会错。",
+   "tags": [
+    "职场",
+    "表达"
+   ]
+  },
+  {
+   "q": "提醒一下",
+   "aliases": [
+    "别忘了",
+    "催一下"
+   ],
+   "variants": [
+    {
+     "content": "Just a reminder that…",
+     "zh": "提醒一下",
+     "style": "正式",
+     "register": "邮件标题/开头最常用，中性不催人",
+     "recommended": true
+    },
+    {
+     "content": "Don’t forget to…",
+     "zh": "提醒一下",
+     "style": "口语",
+     "register": "对熟人说。对上司用会显得在指挥",
+     "recommended": false
+    },
+    {
+     "content": "Have you had a chance to…?",
+     "zh": "提醒一下",
+     "style": "正式",
+     "register": "催办的黄金句式：不问你做没做，只问有没有机会做",
+     "recommended": false
+    },
+    {
+     "content": "I’m just following up on…",
+     "zh": "提醒一下",
+     "style": "书面",
+     "register": "商务催办标准开头，follow up 是跟进不是追责",
+     "recommended": false
+    }
+   ],
+   "words": [
+    {
+     "surface": "reminder",
+     "zh": "提醒（名词）"
+    },
+    {
+     "surface": "nudge",
+     "zh": "轻推；委婉催促"
+    }
+   ],
+   "mistakes": [
+    {
+     "wrong": "I remind you to send it.",
+     "why": "I remind you 在英语里是上级对下级的口气，同事之间很刺耳",
+     "right": "Just a reminder to send it."
+    }
+   ],
+   "examples": [
+    {
+     "en": "Just a reminder that the form is due Friday.",
+     "zh": "提醒一下，表格周五截止。"
+    },
+    {
+     "en": "Don’t forget to bring your passport.",
+     "zh": "别忘了带护照。"
+    }
+   ],
+   "note": "催人在英语里是技术活：直接说 You haven’t sent it 等于指责。用 Have you had a chance to…? 把责任转给「机会」，对方反而更快回。",
+   "tags": [
+    "职场",
+    "日常生活"
+   ]
+  }
+ ]
+}
